@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(33, 106, 215);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#introText{
+    color: #0000FF;
+}
+
+.highlight {
+    color: #00ff3c;
+    font-weight: bolds;
+}
+
+#hobbyText{
+    width: 470px;
+}
+
+#nameContainer{
+float: left;
+}
+
+#navigation a {
+    padding: 10px
+    
+}
+
+#lefContainer{
+    width: 305px;
+    float: left;
+}
